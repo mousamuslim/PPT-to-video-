@@ -1,0 +1,6 @@
+{
+  "name": "SlideVideo AI",
+  "description": "تحويل ملفات البوربوينت إلى مقاطع فيديو احترافية ناطقة بالصوت بدقة وبأكثر من لغة بالذكاء الاصطناعي مع قراءة النص الحرفي للصفحات فقط",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

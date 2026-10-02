@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SlideVideo AI</string>
+    <string name="subtitle">تحويل عروض البوربوينت إلى فيديو ناطق بدقة وبأكثر من لغة</string>
+    <string name="import_pptx">استيراد ملف بوربوينت (.pptx)</string>
+    <string name="receive_shared_hint">يمكنك مشاركة أي ملف بوربوينت من أي تطبيق مباشرة إلى هنا</string>
+    <string name="try_demo">أو جرّب عرض توضيحي جاهز</string>
+    <string name="demo_deck_ai">عرض الذكاء الاصطناعي في التعليم</string>
+    <string name="demo_deck_business">تقرير نمو الأعمال والأرباح</string>
+    <string name="demo_deck_health">الصحة وجودة الحياة اليومية</string>
+    <string name="verbatim_rule_title">صوت ناطق حرفي بالذكاء الاصطناعي</string>
+    <string name="verbatim_rule_desc">الصوت يتضمن فقط الكلام الموجود في الصفحات دون أي إضافات أو مقدمات</string>
+    <string name="generate_video">توليد الفيديو مع الصوت</string>
+    <string name="generating_video">جاري تحويل العرض إلى فيديو ناطق...</string>
+    <string name="play_video">تشغيل الفيديو</string>
+    <string name="share_video">مشاركة الفيديو (MP4)</string>
+    <string name="languages_title">اللغات المدعومة لنفس الملف</string>
+    <string name="original_lang">اللغة الأصلية للملف</string>
+    <string name="translate_narrate">ترجمة وقراءة حرفية</string>
+    <string name="slide_count">%1$d شرائح</string>
+    <string name="slide_number">شريحة %1$d من %2$d</string>
+    <string name="no_presentations">لا توجد عروض بوربوينت بعد</string>
+    <string name="no_presentations_hint">قم باستيراد ملف .pptx أو إرساله من واتساب أو مدير الملفات</string>
+    <string name="settings">الإعدادات</string>
+    <string name="voice_speed">سرعة الإلقاء</string>
+    <string name="voice_pitch">نبرة الصوت</string>
+    <string name="theme_style">نمط تصميم الفيديو</string>
+    <string name="edit_text_before_download">تعديل النصوص قبل التنزيل</string>
+    <string name="edit_slide">تعديل نص الشريحة</string>
+    <string name="save_edits">حفظ التعديلات</string>
+    <string name="auto_detect_lang">اكتشاف تلقائي للغة النص</string>
+</resources>
